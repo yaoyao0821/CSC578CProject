@@ -1,0 +1,7 @@
+#pragma once
+
+namespace pbf
+{
+    constexpr const char ShaderDirectory[] = "@LAB_SHADER_ROOT@/";
+    constexpr const char DataDirectory[] = "@DATA_ROOT@/";
+}
